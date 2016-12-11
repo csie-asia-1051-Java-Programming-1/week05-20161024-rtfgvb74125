@@ -28,10 +28,6 @@ public class hw05 {
 				a++;
 			}
 		}
-		
-		
-		
-		
 		for (int i = 0; i < v1; i++) {
 			for (int j = 0; j < v1; j++) {
 				System.out.print(data[i][j]+"\t");

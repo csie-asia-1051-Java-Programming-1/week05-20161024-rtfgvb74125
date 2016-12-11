@@ -24,16 +24,12 @@ public class ex06 {
 					sum = data[j+1];
 					data[j+1] = data[j];
 					data[j] = sum;
-					
 				}
 			}
-			
 		}
 		for(int i = 0;i<data.length;i++){
 			System.out.print(data[i] + "\t");
 		}
-		
-
 	}
 
 }
